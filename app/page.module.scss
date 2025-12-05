@@ -1,0 +1,6 @@
+@reference 'tailwindcss';
+@reference './globals.css';
+
+.main {
+	@apply mt-5;
+}
