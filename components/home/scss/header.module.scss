@@ -1,0 +1,5 @@
+@reference 'tailwindcss';
+@reference '../../../app/globals.css';
+.header {
+	@apply h-[100px] border-2 border-b-accent rounded-2xl;
+}
